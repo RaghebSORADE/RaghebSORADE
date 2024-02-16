@@ -11,6 +11,7 @@
 
 
 - 🏢 I'm a  junior Tester 
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 As a It student, I'm constantly learning and exploring new technologies to improve my skills.
+
 - 
 
