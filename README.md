@@ -9,9 +9,9 @@
 
 
 
-
-- 🏢 I'm a  junior Tester 
+- 🏢 I'm a  junior Full Stack Developer 
 - 👨‍💻 As a It student, I'm constantly learning and exploring new technologies to improve my skills.
+- 💬 Ask me about my experience with JavaScript, html, and css, or anything related to web development.
 
 - 
 
