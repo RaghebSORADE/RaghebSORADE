@@ -13,6 +13,9 @@
 - 👨‍💻 As a It student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, html, and css, or anything related to web development.
 
+Connect with Me :
+<a href="[https://linkedin.com/in/yousefdergham](https://www.linkedin.com/in/ragheb-sorade-627954223/)" target="_blank"><img src="https://img.shields.io/badge/-Ragheb%20DSorade-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+
 - 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
