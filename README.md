@@ -9,9 +9,9 @@
 
 
 
-- 🏢 I'm a  junior Full Stack Developer 
+- 🏢 I'm a  junior junior Database Administrator.
 - 👨‍💻 As a It student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, html, and css, or anything related to web development.
+- 💬 Ask me about my experience with JavaScript, C++, and RDBMS, or anything related to web development.
 
 Connect with Me :
 
