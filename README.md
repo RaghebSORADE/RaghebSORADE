@@ -9,7 +9,7 @@
 
 
 
-- 🏢 I'm a  junior junior Database Administrator.
+- 🏢 I'm a  junior Database Administrator.
 - 👨‍💻 As a It student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, C++, and RDBMS, or anything related to web development.
 
